@@ -1,0 +1,16 @@
+{
+  "name": "aula03node",
+  "version": "1.0.0",
+  "description": "Projeto aula 3.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Edwyn Wylly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
